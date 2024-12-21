@@ -1,0 +1,23 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+.t1 {
+    display: none;
+    position: absolute;
+    right: 1px;
+    top: 100px;
+    size: 0px;
+}
+
+.img1 {
+
+    display: none;
+    width: 1px;
+}
+.slide {
+    display: none;
+
+    position: block;
+
+}
