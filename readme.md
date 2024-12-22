@@ -9,3 +9,4 @@ This is an article about the origin of the Coca-Cola Polar Bear, and who created
 I made this to teach others about the history of this famous mascot. Through building this website, I learned a lot about the person who created the mascot, Ken Stewart, and how the polar bear became very popular. It all started, though, by seeing the cute bear in Coca-Cola's store in Las Vegas. 
 
 # **I HOPE YOU ENJOY THIS!**
+## VIEW WEBSITE [HERE](https://nathantsai1.github.io/coca-cola-bear-history/)
