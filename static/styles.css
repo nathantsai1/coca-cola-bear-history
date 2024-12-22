@@ -1,23 +1,72 @@
-.body {
-    margin: 0px;
-    padding: 0px;
+/* t(s), img(s), slide(s), common(s) */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blue;
 }
+
+/* t(s) */
 .t1 {
-    display: none;
-    position: absolute;
-    right: 1px;
-    top: 100px;
-    size: 0px;
+    right: 12%;
+    top: 1%;
+    font-size: 40px;
 }
 
+.t2 {
+    right: 3%;
+    top: 45%
+}
+
+.t3 {
+    right: 2%;
+    top: 25%;
+    font-size: 40px;
+}
+
+.t4 {
+    font-size: 20px;
+    right: 5%;
+    top: 35%;
+}
+/* img(s) */
 .img1 {
-
-    display: none;
-    width: 1px;
+    /* FOR: babybear s1 */
+    width: 100%;
+    overflow: hidden;
+    max-height: 100%;
 }
-.slide {
-    display: none;
 
-    position: block;
+.img2 {
+    /* FOR: coca-cola logo s1 */
+    height: 30%;
+    top: 7%;
+    right: 5%;
+}
 
+/* slide(s) */
+/* #slide1 {
+} */
+
+.slide2 {
+    width: 100%;
+    height: 150%;
+    background-color: #F40009;
+}
+
+/* common(s) */
+.block {
+    display: block;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.z0 {
+    z-index: 1;
+}
+
+.white {
+    color: white;
 }
